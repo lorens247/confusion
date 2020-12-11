@@ -1,5 +1,4 @@
 # confusion
  
-# A simple bootstrap website on nodejs simple server
-
-# Built from scratch.
+A simple bootstrap website on nodejs simple server.
+Built from scratch.
